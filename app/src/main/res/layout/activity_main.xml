@@ -13,6 +13,6 @@
         android:layout_height="wrap_content"
         android:id="@+id/btnStartMusic"
         android:text="Start Music"
-        android:onClick="handlingServices"/>
+        android:onClick="btnClicked"/>
 
 </LinearLayout>
